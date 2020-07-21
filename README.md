@@ -1,4 +1,4 @@
-# DeepFashion2 Dataset
+﻿# DeepFashion2 Dataset
 ![image](https://github.com/switchablenorms/DeepFashion2/blob/master/images/deepfashion2_bigbang.png)
 
 DeepFashion2 is a comprehensive fashion dataset. It contains 491K diverse images of 13 popular clothing categories from both 
@@ -203,4 +203,4 @@ If you use the DeepFashion2 dataset in your work, please cite it as:
   journal={CVPR},
   year={2019}
 }
-```
+```d
