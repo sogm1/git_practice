@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# DeepFashion2 Dataset
 ![image](https://github.com/switchablenorms/DeepFashion2/blob/master/images/deepfashion2_bigbang.png)
 
@@ -204,3 +205,6 @@ If you use the DeepFashion2 dataset in your work, please cite it as:
   year={2019}
 }
 ```d
+=======
+"# git_practice" 
+>>>>>>> da0da15495c39965aeda5ebdb53d44c1ee1328ed
